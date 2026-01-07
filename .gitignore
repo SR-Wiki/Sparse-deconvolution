@@ -2,3 +2,5 @@
 *.tif
 /full
 .DS_Store
+**/.DS_Store
+.DS_Store?
