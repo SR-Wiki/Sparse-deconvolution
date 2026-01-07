@@ -1,27 +1,15 @@
-<!-- <p align='left'>
-    <a href="https://weisongzhao.github.io/Sparse-SIM/"><img src='https://img.shields.io/badge/Projects-1.0.3-brightgreen.svg'/> </a>
-    <a href="https://github.com/WeisongZhao/Sparse-SIM/"><img src='https://img.shields.io/badge/code-1.0.3-yellow.svg'/> </a>
-    <a href="https://weisongzhao.github.io/Sparse-SIM/"><img src='https://img.shields.io/badge/website-Up-green.svg' /></a>
-    <a href="https://github.com/WeisongZhao/Sparse-SIM/releases/tag/v1.0.3/"><img src='https://img.shields.io/badge/Release-v1.0.3-blue.svg'/></a>
-    <a href="https://github.com/WeisongZhao/Sparse-SIM/blob/master/LICENSE/"><img src='https://img.shields.io/github/license/WeisongZhao/Sparse-SIM' /></a>
-     <a href="https://www.nature.com/nbt/"><img src='https://img.shields.io/badge/paper-Nature%20Biotechnology-black.svg' /></a>
- </p> -->
-
-
-
-[![code](https://img.shields.io/badge/code-1.0.3-yellow.svg)](https://github.com/WeisongZhao/Sparse-SIM/)
-[![website](https://img.shields.io/badge/website-up-green.svg)](https://weisongzhao.github.io/Sparse-SIM/)
+[![code](https://img.shields.io/badge/code-1.0.3-yellow.svg)](https://github.com/SR-Wiki/Sparse-deconvolution/)
 [![releases](https://img.shields.io/badge/release-v1.0.3-blue.svg)](https://github.com/WeisongZhao/Sparse-SIM/releases/tag/v1.0.3/)
 [![paper](https://img.shields.io/badge/post-behind%20the%20paper-black.svg)](https://bioengineeringcommunity.nature.com/posts/physical-resolution-might-be-meaningless-if-in-the-mathematical-space)
 [![paper](https://img.shields.io/badge/paper-nat.%20biotech.-black.svg)](https://doi.org/10.1038/s41587-021-01092-2)<br>
-[![Github commit](https://img.shields.io/github/last-commit/WeisongZhao/Sparse-SIM)](https://github.com/WeisongZhao/Sparse-SIM/)
+[![Github commit](https://img.shields.io/github/last-commit/SR-Wiki/Sparse-deconvolution)](https://github.com/SR-Wiki/Sparse-deconvolution/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5079743.svg)](https://doi.org/10.5281/zenodo.5079743)
 [![Github All Releases](https://img.shields.io/github/downloads/WeisongZhao/Sparse-SIM/total.svg)](https://github.com/WeisongZhao/Sparse-SIM/releases/tag/v1.0.3/) 
-[![License](https://img.shields.io/github/license/WeisongZhao/Sparse-SIM)](https://github.com/WeisongZhao/Sparse-SIM/blob/master/LICENSE/)<br>
+[![License](https://img.shields.io/github/license/SR-Wiki/Sparse-deconvolution)](https://github.com/SR-Wiki/Sparse-deconvolution/blob/master/LICENSE/)<br>
 [![Twitter](https://img.shields.io/twitter/follow/weisong_zhao?label=weisong)](https://twitter.com/hashtag/sparsedeconvolution?src=hashtag_click)
-[![GitHub watchers](https://img.shields.io/github/watchers/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/) 
-[![GitHub stars](https://img.shields.io/github/stars/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/) 
-[![GitHub forks](https://img.shields.io/github/forks/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/)
+[![GitHub watchers](https://img.shields.io/github/watchers/WeisongZhao/Sparse-SIM?style=social)](https://github.com/SR-Wiki/Sparse-deconvolution/) 
+[![GitHub stars](https://img.shields.io/github/stars/WeisongZhao/Sparse-SIM?style=social)](https://github.com/SR-Wiki/Sparse-deconvolution/) 
+[![GitHub forks](https://img.shields.io/github/forks/WeisongZhao/Sparse-SIM?style=social)](https://github.com/SR-Wiki/Sparse-deconvolution/)
 
 
 <p>
@@ -40,9 +28,9 @@ It is a part of publication. For details, please refer to: [Weisong Zhao et al. 
 
 The related Python version can be found at [HERE](https://github.com/WeisongZhao/sparse-deconv-py/)
 
-You can also find some fancy results and comparisons on my [website](https://weisongzhao.github.io/home/portfolio-4-col.html#Sparse).
+You can also find some fancy results and comparisons on lab [website](https://weisongzhao.github.io/home/portfolio-4-col.html#Sparse).
 
-If you are interested in our work, I wrote a [#behind_the_paper](https://communities.springernature.com/posts/physical-resolution-might-be-meaningless-if-in-the-mathematical-space) post for further reading.
+If you are interested in our work, we wrote a [#behind_the_paper](https://communities.springernature.com/posts/physical-resolution-might-be-meaningless-if-in-the-mathematical-space) post for further reading.
 
 Here is also a [blog](https://weisongzhao.github.io/rl_positivity_sim/) about it for further reading.
 
@@ -124,7 +112,7 @@ More on [Wiki](https://github.com/WeisongZhao/Sparse-SIM/wiki/).
 - An adaptive filter to remove isolate hot pixels: [Adaptive filter imagej-plugin](https://github.com/WeisongZhao/AdaptiveMedian.imagej/)
 - A tool for multi-color 2D or 3D imaging: [Merge channels](https://github.com/WeisongZhao/Palette.ui)
 - **Further reading:** [#behind_the_paper](https://bioengineeringcommunity.nature.com/posts/physical-resolution-might-be-meaningless-if-in-the-mathmetical-space) & [blog](https://weisongzhao.github.io/rl_positivity_sim/)
-- **Some fancy results and comparisons:** [my website](https://weisongzhao.github.io/home/portfolio-4-col.html#Sparse)
+- **Some fancy results and comparisons:** [lab website](https://weisongzhao.github.io/home/portfolio-4-col.html#Sparse)
 - **Preprint:** [Weisong Zhao et al., Extending resolution of structured illumination microscopy with sparse deconvolution, Research Square (2021).](https://doi.org/10.21203/rs.3.rs-279271/v1)
 - **Reference:** [Weisong Zhao et al. Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy, Nature Biotechnology 40, 606–617 (2022).](https://doi.org/10.1038/s41587-021-01092-2)
 
@@ -133,12 +121,11 @@ More on [Wiki](https://github.com/WeisongZhao/Sparse-SIM/wiki/).
 <li> <s>Debug mode for parameter-adjustment;</s></li>
 <li> <s>A Pyhton version of Sparse deconvolution;</s></li>
 <li> A imagej-plugin of Sparse deconvolution;</li>
-<li> A Headless mode;</li>
 <li> Reduce the necessary/exposed parameters.</li>
 </details>
 
 
-## Open source [Sparse deconvolution](https://github.com/WeisongZhao/Sparse-SIM)
+## Open source [Sparse deconvolution](https://github.com/SR-Wiki/Sparse-deconvolution/)
 
 - This software and corresponding methods can only be used for **non-commercial** use, and they are under Open Data Commons Open Database License v1.0.
 - Feedback, questions, bug reports and patches are welcome and encouraged!
